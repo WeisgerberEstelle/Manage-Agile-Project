@@ -1,7 +1,5 @@
 # CATASTERRE - Agile Project Management Case Study
 
-> Coursework project for an Expert in Software Development certification.
-> End-to-end agile management of an application evolution project, from technology watch to sprint execution.
 
 ## Context
 
