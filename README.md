@@ -34,10 +34,10 @@ Expert Software Developer / Project Manager : responsible for leading the techni
 
 ## Methods and Frameworks
 
-- **Scrum** — 2-week sprints, velocity capped at 15 SP
+- **Scrum** 2-week sprints, velocity capped at 15 SP
 - **Fibonacci** estimation (1, 2, 3, 5, 8, 13) with Planning Poker
 - **MoSCoW** prioritization (Must / Should / Could / Won't)
-- **Evolving Definition of Done** — progressive maturity across sprints
+- **Evolving Definition of Done** progressive maturity across sprints
 - **Risk matrix** Probability × Impact with mitigation strategies
 - **Eco-design** integrated from development (EcoIndex, Lighthouse)
 
