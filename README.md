@@ -31,7 +31,6 @@ Expert Software Developer / Project Manager : responsible for leading the techni
 | 1 | [Technology watch](docs/01-veille.md) | Targeted watch on 4 themes: architectures, performance, technical debt, full-stack testing |
 | 2 | [Commercial proposal](docs/02-proposition-commerciale.md) | Two scenarios (MVP / full backlog), estimation, risks, KPIs, environmental impact |
 | 3 | [Steering committee deck](docs/03-support-coproj.md) | Sprint planning, blockers, evolving Definition of Done, risk matrix, training plan |
-| 4 | [Product backlog](docs/04-backlog.md) | 13 User Stories + 38 sub-tasks across 6 sprints |
 
 ## Methods and Frameworks
 
