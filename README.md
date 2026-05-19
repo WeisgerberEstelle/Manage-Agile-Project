@@ -13,7 +13,7 @@ Launched less than a year ago, the application suffers from performance issues, 
 
 ## Role
 
-Expert Software Developer / Project Manager — responsible for leading the technical team and establishing a clear Scrum framework to manage costs, deadlines, and skills.
+Expert Software Developer / Project Manager : responsible for leading the technical team and establishing a clear Scrum framework to manage costs, deadlines, and skills.
 
 ## Team
 
